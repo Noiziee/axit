@@ -71,17 +71,17 @@ body {
   transition: all 0.3s;
 }
 
-.bnt-clear {
+.btn-transparent {
   border: 2px solid #FFFFFF;
   transition: all .3s;
 }
 
-.bnt-clear:hover {
+.btn-transparent:hover {
   border-color: #EC7979;
   color: #EC7979;
 }
 
-.bnt-clear:active {
+.btn-transparent:active {
   color: #fff;
   background-color: #AB4949;
   border-color: #AB4949;
